@@ -1,5 +1,6 @@
 
 from sklearn import tree
+import os
 
 # smooth = 1 and bumpy = 0
 features = [[140, 1], [130, 1], [150, 0], [170, 0],
